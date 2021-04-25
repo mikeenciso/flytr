@@ -2,7 +2,7 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Flytr is an open-source flight-tracking Android & iOS mobile application developed using Flutter.
+Flytr is a free and open-source flight-tracking Android & iOS mobile application developed using Flutter.
 It connects to OpenSky-Network's Live REST API for flight information.
 
 ## Contributors
