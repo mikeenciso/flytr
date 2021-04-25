@@ -5,6 +5,10 @@
 Flytr is a free and open-source flight-tracking Android & iOS mobile application developed using Flutter.
 It connects to OpenSky-Network's Live REST API for flight information.
 
+![Alt text](./external_assets/prototype_screenshots/prototype_screenshot_001.jpg?raw=true "001.South East Asia Area.")
+![Alt text](./external_assets/prototype_screenshots/prototype_screenshot_002.jpg?raw=true "002.Zoom w/ Few Planes")
+![Alt text](./external_assets/prototype_screenshots/prototype_screenshot_003.jpg?raw=true "003.Zoom Europe w/ Many Planes")
+
 ## Contributors
 - **Mike Enciso** - lead developer: [GitHub](https://github.com/mikeenciso), [Web](https://blackopscode.com).
  
